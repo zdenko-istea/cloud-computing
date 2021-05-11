@@ -32,7 +32,6 @@ Vamos a empezar con los requisitos para esto:
     k8s-node-2   Ready    <none>                 16m   v1.21.0
     ```
 
-    Links:
 
     [vbox]: <https://www.virtualbox.org/wiki/Downloads>
     [vagrant]: <https://www.vagrantup.com/downloads>
